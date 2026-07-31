@@ -16,22 +16,20 @@
 
 ## 🚀 Skills
 
-- Java
-- C
-- Python
-- HTML
-- CSS
-- JavaScript
-- MERN
-- Git & GitHub
-- Generative AI
-- AI and ML
-- DSA(Java)
-- python
-- numpy
-- deeplearning
-- Machine Learning
+## 🚀 Skills
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Java-red?style=for-the-badge"/>
+</p>
 ---
 
 ## 📌 Projects
