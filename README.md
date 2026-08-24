@@ -37,6 +37,7 @@
 - Skin-Cancer Classification
 - Hotel-Management System
 - AI-Driven System for Securing IoT In Railways
+- Attest — a grounded chargeback evidence responder with measured return-risk scoring
 - More coming soon...
 
 ---
