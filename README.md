@@ -50,14 +50,6 @@
 
 ---
 
-### GitHub stats
-
-<p align="left">
- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parth160905&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parth160905&layout=compact&theme=tokyonight" />
-
----
-
 ### Connect
 - LinkedIn: [linkedin.com/in/parth1044arora](https://www.linkedin.com/in/parth1044arora)
 - GitHub: [github.com/Parth160905](https://github.com/Parth160905)
