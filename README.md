@@ -24,11 +24,11 @@
 | Project | What it does | Links |
 |---|---|---|
 | **anvil** | Embedded key-value storage engine (Java) — WAL, SSTables, compaction, concurrency, JMH-benchmarked | [Live demo](https://anvil-a0ii.onrender.com) · [Showcase](https://parth160905.github.io/anvil/) · [Code](https://github.com/Parth160905/anvil) |
-| **Grounded RAG** | Java/Spring Boot RAG service over Postgres + pgvector — structure-aware chunking, hybrid retrieval, BGE embeddings | [Code](https://github.com/Parth160905/Grounded-Rag) |
-| **Attest** | Zero-dependency chargeback evidence responder with measured return-risk scoring — built for Razorpay AI Buildathon | [Code](https://github.com/Parth160905/Attest) |
-| **AI-Driven IoT Security** | AI-driven IoT security & network monitoring platform, built during a UPMRC internship | [Code](https://github.com/Parth160905/AI-Driven-System-for-Securing-IoT-in-Railways) |
-| **Aperture** | Instagram-style photo network — Node.js/Express/SQLite, deployed on Render | [Code](https://github.com/Parth160905/Aperture) |
-| **Skin Lesion Classification** | Multi-class skin lesion classification on HAM10000 — six CNN architectures, lesion-grouped splits, measured results | [Code](https://github.com/Parth160905/Skin-cancer-classification) |
+| **Grounded RAG** | Java/Spring Boot RAG service over Postgres + pgvector — hybrid BM25 + dense retrieval, reciprocal rank fusion, deep links to source | [Showcase](https://parth160905.github.io/Grounded-Rag/) · [Code](https://github.com/Parth160905/Grounded-Rag) |
+| **Attest** | Zero-dependency chargeback evidence responder with measured return-risk scoring — built for Razorpay AI Buildathon | [Live demo](https://attest-jaz4.onrender.com/) · [Code](https://github.com/Parth160905/Attest) |
+| **AI-Driven IoT Security** | AI-driven IoT security & network monitoring platform, built during a UPMRC internship | [Live demo](https://parth160905.github.io/AI-Driven-System-for-Securing-IoT-in-Railways/) · [Code](https://github.com/Parth160905/AI-Driven-System-for-Securing-IoT-in-Railways) |
+| **Aperture** | Instagram-style photo network — Node.js/Express/SQLite, deployed on Render | [Live demo](https://aperture-90ix.onrender.com/) · [Code](https://github.com/Parth160905/Aperture) |
+| **Skin Lesion Classification** | Multi-class skin lesion classification on HAM10000 — six CNN architectures, lesion-grouped splits, measured results | [Interactive site](https://parth160905.github.io/Skin-cancer-classification/) · [Code](https://github.com/Parth160905/Skin-cancer-classification) |
 
 ---
 
