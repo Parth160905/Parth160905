@@ -9,13 +9,14 @@
 ---
 
 ### About me
-- 🎓 B.Tech Computer Science student
-- 🧱 Systems/backend in Java — built `anvil`, an embedded LSM-tree key-value store from scratch (WAL, SSTables, compaction, concurrency, JMH-benchmarked)
-- 🤖 GenAI engineering — built `Grounded RAG`, a Spring Boot RAG service with hybrid retrieval, pgvector, and evaluation-gated metrics
-- 🧠 Applied ML — trained six CNN architectures for skin lesion classification on HAM10000, with measured, lesion-grouped results
-- 🌐 Full-stack — shipped `Aperture`, a Node.js/Express photo-sharing app deployed live; also built AI-driven IoT security tooling during a UPMRC internship
+### About me
+- 🎓 Final-year B.Tech Computer Science student
+- 🧱 Systems/backend in Java — built `anvil`, an embedded LSM-tree key-value store from scratch: WAL, SSTables, compaction, concurrency — sustaining ~6,400 writes/sec under concurrent load, JMH-benchmarked
+- 🤖 GenAI engineering — built `Grounded RAG`, a hybrid-retrieval RAG service hitting **recall@5 0.819 / MRR 0.836**, enforced as a CI build gate
+- 🧠 Applied ML — trained six CNN architectures for skin lesion classification on HAM10000, reaching **macro-F1 0.69 / macro-AUC 0.96** — a 14-point lift over the majority-class baseline
+- 🌐 Full-stack — shipped `Aperture` (live social app) and `Attest`, a from-scratch fraud-risk model built for the Razorpay AI Buildathon
 - 🛠️ Java for backend & systems work, Python for ML/data work
-- 📫 Reach me: aparth1609@gmail.com
+- 📫 Open to [internship / full-time — fill in what applies] opportunities — reach me: aparth1609@gmail.com
 
 ---
 
