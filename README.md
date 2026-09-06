@@ -9,7 +9,7 @@
 ---
 
 ### About me
-### About me
+> **TL;DR:** Java backend/systems engineer who ships measurable results — a from-scratch storage engine sustaining 6,400 writes/sec, a RAG service holding 0.82 recall@5 as a CI gate, and an ML model beating baseline by 14 points
 - 🎓 Final-year B.Tech Computer Science student
 - 🧱 Systems/backend in Java — built `anvil`, an embedded LSM-tree key-value store from scratch: WAL, SSTables, compaction, concurrency — sustaining ~6,400 writes/sec under concurrent load, JMH-benchmarked
 - 🤖 GenAI engineering — built `Grounded RAG`, a hybrid-retrieval RAG service hitting **recall@5 0.819 / MRR 0.836**, enforced as a CI build gate
